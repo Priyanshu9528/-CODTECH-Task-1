@@ -40,6 +40,12 @@ Gender Distribution: Visualized the distribution of male and female customers.
 Gender vs. Spending Score & Annual Income: Compared spending score and annual income between male and female customers.
 
 
+# Technologies Used
+#### Python: For data manipulation and analysis.
+#### Pandas: For data manipulation and preprocessing.
+#### Seaborn & Matplotlib: For data visualization.
+
+
 # Key Insights
 Customer Demographics:
 

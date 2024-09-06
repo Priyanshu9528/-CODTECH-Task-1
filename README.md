@@ -21,6 +21,8 @@ Age: Age of the customer.
 Annual_Income_(k$): Annual income of the customer in thousands of dollars.
 Spending_Score: Spending score assigned to the customer, likely based on their purchasing behavior.
 
+
+
 # EDA Summary
 1. Data Overview
 The dataset contains 200 records with no missing values.
@@ -58,6 +60,20 @@ Both male and female customers exhibit diverse spending patterns, with no signif
 Outliers:
 
 Some outliers were detected in the spending score and annual income, which could represent high-spending or low-spending customers.
+
+## Visualizations
+
+### Age, Annual Income, and Spending Score Distributions
+![Age, Annual Income, and Spending Score Distributions](https://github.com/Priyanshu9528/CODTECH-Task1/blob/main/fig3.png)
+
+### Distribution of Spending Score by Gender
+![Spending Score by Gender](https://github.com/Priyanshu9528/CODTECH-Task1/blob/main/fig4.png)
+
+### Pair Plot of Customer Data
+![Pair Plot](https://github.com/Priyanshu9528/CODTECH-Task1/blob/main/pairplot.png)
+
+### Annual Income Distribution
+![Annual Income Distribution](https://github.com/Priyanshu9528/CODTECH-Task1/blob/main/Annual%20Income%20Dist%20plot%20.png)
 
 # Conclusion
 This EDA provides a comprehensive understanding of the mall customers' demographics and spending behaviors. The insights gained from this analysis can be leveraged for customer segmentation, targeted marketing strategies, and enhancing the shopping experience.
